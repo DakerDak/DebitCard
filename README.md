@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lowag33tfeyyfbog?svg=true)](https://ci.appveyor.com/project/DakerDak/postman-echo)
+[![Build status](https://ci.appveyor.com/api/projects/status/dtg33tyu1rfa26um?svg=true)](https://ci.appveyor.com/project/DakerDak/debitcard)
